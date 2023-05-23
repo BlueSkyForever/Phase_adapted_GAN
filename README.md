@@ -1,4 +1,5 @@
 # PAGAN
+## 论文地址：https://ieeexplore.ieee.org/document/9054256
 ## Dependencies
    python3.0, pytorch=1.0.1, glob, librosa, numpy, pypesq, pystoi
 ## Prepare Dataset
